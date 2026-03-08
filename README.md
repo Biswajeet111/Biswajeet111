@@ -68,20 +68,22 @@ AI-powered platform for managing payroll and tracking company expenses.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Biswajeet111&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Biswajeet111&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajeet111&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajeet111&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajeet111&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajeet111&theme=tokyo-night"/>
 </p>
+
 
 ---
 
