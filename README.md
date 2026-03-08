@@ -91,7 +91,7 @@ AI-powered platform for managing payroll and tracking company expenses.
 
 * GitHub: https://github.com/Biswajeet111
 * LinkedIn: https://www.linkedin.com/in/biswajeet-kumar-a70043362
-* Portfolio: https://biswajeetk497.wixsite.com/my-portfolio
+* Portfolio: [https://biswajeetk497.wixsite.com/my-portfolio](https://biswajeet111.github.io/portfolio/)
 * Email: [biswajeetk497@gmail.com](mailto:biswajeetk497@gmail.com)
 
 ---
