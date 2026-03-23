@@ -81,23 +81,9 @@ React • FastAPI • PostgreSQL
 
 An intelligent study planning system that generates personalized schedules using Machine Learning predictions and LLM-powered insights.
 
-### 🔹 Key Features:
-
-- Personalized study schedule generation  
-- Performance prediction using ML models  
-- Risk subject detection  
-- AI-powered study recommendations  
-- Gamified XP-based progress tracking  
-- Interactive dashboard with analytics  
-- Weekly and daily study optimization  
-- AI-powered chatbot for study assistance  
-
-### 🔹 Tech Stack:
+**Tech:**
 
 FastAPI • Python • MongoDB • Scikit-Learn • LLM APIs • Next.js  
-
-🔗 Repository:  
-https://github.com/Biswajeet111/ai-study-planner-agent  
 
 ---
 
