@@ -75,8 +75,6 @@ React • FastAPI • PostgreSQL
 
 ---
 
-# 🤖 AI & Machine Learning Projects
-
 ## 📚 StudyForge AI — AI-Powered Study Planner
 
 An intelligent study planning system that generates personalized schedules using Machine Learning predictions and LLM-powered insights.
