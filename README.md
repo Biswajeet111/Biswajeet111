@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Biswajeet Kumar</h1>
-<h3 align="center">🚀 Software Developer | Flutter & Backend Enthusiast | AI Systems Explorer</h3>
+<h3 align="center">🚀 AI & Software Developer | Computer Vision | Deep Learning | Full-Stack Systems</h3>
 
 <p align="center">
 Passionate about building real-world applications and exploring modern software technologies.
@@ -35,7 +35,7 @@ Focused on scalable systems, intelligent automation, and full-stack development.
 ## Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,nodejs,react,fastapi,git,github,vscode,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,flutter,nodejs,react,fastapi,git,github,vscode,androidstudio"/>
 </p>
 
 ## Databases
@@ -44,9 +44,23 @@ Focused on scalable systems, intelligent automation, and full-stack development.
 <img src="https://skillicons.dev/icons?i=mysql,firebase,postgres,mongodb"/>
 </p>
 
+## 🤖 AI & Computer Vision
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,python"/>
+</p>
+
+
 ---
 
 # 🚀 Featured Projects
+
+## 🧠 VisionExtract AI — Deep Learning Subject Isolation System ⭐
+
+A high-performance computer vision system that automatically isolates subjects from images using deep learning-based semantic segmentation.
+
+**Tech:**  
+PyTorch • OpenCV • Albumentations • Streamlit • COCO Dataset • CUDA  
 
 ## 🏥 ResQ – Emergency Medical Assistance App
 
@@ -118,7 +132,8 @@ FastAPI • Python • MongoDB • Scikit-Learn • LLM APIs • Next.js
 - 🧠 Implemented predictive models using Scikit-Learn  
 - 💡 Built interactive dashboards with analytics insights  
 - 🔧 Deployed real-world applications to cloud platforms  
-- 🎯 Continuously improving through hands-on project development  
+- 🎯 Continuously improving through hands-on project development
+- 🧠 Developed production-grade computer vision system achieving **0.62+ IoU** on COCO dataset
 
 ---
 
